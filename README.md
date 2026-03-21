@@ -203,9 +203,18 @@ Press **q** to exit the program.
 
 # Screenshots of Results
 
-| **Detection** | ![Detection Overlay](screenshots/car_with_plate_1.png) |
-| **Alignment** | ![Aligned Plate](screenshots/plate_closeup_2.png) |
-| **Full Workflow** | ![Perspective View](screenshots/car_angled_3.png) |
+| **Detection** |
+
+![Detection Overlay](screenshots/car_with_plate_1.png) |
+
+
+| **Alignment** |
+
+![Aligned Plate](screenshots/plate_closeup_2.png) |
+
+| **Full Workflow** |
+
+![Perspective View](screenshots/car_angled_3.png) |
 
 # Features
 
