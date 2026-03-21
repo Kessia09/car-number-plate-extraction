@@ -208,7 +208,7 @@ Press **q** to exit the program.
 Example of the system detecting a license plate from the video feed.
 
 
-images/detection.png
+screenshots/car_with_plate_1.png
 
 
 ---
@@ -218,7 +218,7 @@ images/detection.png
 The detected plate is corrected using perspective transformation.
 
 
-images/aligned_plate.png
+screenshots/plate_closeup_2.png
 
 
 ---
@@ -227,9 +227,7 @@ images/aligned_plate.png
 
 The system reads characters from the aligned plate.
 
-
-images/ocr_result.png
-
+screenshots/car_angled_3.png
 
 ---
 
