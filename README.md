@@ -203,42 +203,9 @@ Press **q** to exit the program.
 
 # Screenshots of Results
 
-## Plate Detection
-
-Example of the system detecting a license plate from the video feed.
-
-
-screenshots/car_with_plate_1.png
-
-
----
-
-## Aligned Plate
-
-The detected plate is corrected using perspective transformation.
-
-
-screenshots/plate_closeup_2.png
-
-
----
-
-## OCR Result
-
-The system reads characters from the aligned plate.
-
-screenshots/car_angled_3.png
-
----
-
-## Confirmed Plate and Logging
-
-Once the plate is confirmed across multiple frames, it is saved to the CSV log file.
-
-images/confirmed_plate.png
-
-
----
+| **Detection** | ![Detection Overlay](screenshots/car_with_plate_1.png) |
+| **Alignment** | ![Aligned Plate](screenshots/plate_closeup_2.png) |
+| **Full Workflow** | ![Perspective View](screenshots/car_angled_3.png) |
 
 # Features
 
